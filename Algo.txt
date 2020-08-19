@@ -1,4 +1,6 @@
 1. Decide which pizza place
+	1a. check yelp reviews
+	1b. verify delivers to my location
 2. Decide what type of pizza
 3. Call the pizza place
 4. Order the pizza
