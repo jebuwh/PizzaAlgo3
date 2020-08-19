@@ -10,3 +10,6 @@
 6. Greet delivery driver
 7. See 4b if necessarry
 8. Enjoy delicious pizza
+9. Order more pizza
+	9a. Start at step 1
+10. Get fat
